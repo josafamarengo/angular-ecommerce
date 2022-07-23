@@ -1,0 +1,15 @@
+.card-header {
+  background-color: #151515;
+  color: #fff;
+}
+.card-body {
+  background-color: #999;
+  color: #fff;
+}
+button {
+  margin: 1rem auto;
+  width: 100%;
+  background-color: rgb(238, 234, 5);
+  color: #000;
+  border: none;
+}

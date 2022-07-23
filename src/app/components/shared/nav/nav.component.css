@@ -1,0 +1,20 @@
+div {
+  margin-right: 5rem;
+}
+nav a {
+  margin: 0;
+}
+nav a:hover {
+  color: #fff;
+}
+.btn-outline-primary {
+  color: #fff;
+  background-color: #151515;
+  border-color: #777;
+  border-radius: 10px;
+}
+.btn-outline-primary:hover {
+  color: #151515;
+  background-color: #fff;
+  border-color: #151515;
+}
